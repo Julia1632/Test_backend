@@ -3,9 +3,6 @@ package com.example.User.myapplication.backend;
 import com.googlecode.objectify.annotation.Entity;
 import com.googlecode.objectify.annotation.Id;
 
-/**
- * Created by User on 16.10.2017.
- */
 @Entity
 public class Fields {
     public int f;
